@@ -1,0 +1,24 @@
+Material_Name,IU_Per_Mg,Common_Name,Regulatory_Standard,Notes
+Retinyl Palmitate,1818.18,Vitamin A,USP,1 IU equals 0.55 mcg
+Vitamin A Palmitate,1818.18,Vitamin A,USP,Alias
+Retinol,3333.33,Vitamin A,USP,1 IU equals 0.30 mcg
+Retinyl Acetate,2903.23,Vitamin A,USP,1 IU equals 0.344 mcg
+Retinyl Propionate,2652.52,Vitamin A,USP,1 IU equals 0.377 mcg
+Beta Carotene,1666.67,Beta Carotene,USP,1 IU equals 0.6 mcg optional
+Cholecalciferol,40000.00,Vitamin D3,USP,1 IU equals 0.025 mcg
+Vitamin D3,40000.00,Vitamin D3,USP,Alias
+Colecalciferol,40000.00,Vitamin D3,BP,British spelling
+Ergocalciferol,40000.00,Vitamin D2,USP,1 IU equals 0.025 mcg
+Vitamin D2,40000.00,Vitamin D2,USP,Alias
+Calcifediol,40000.00,Vitamin D3,USP,25-OH D3
+Calcitriol,40000.00,Vitamin D3,USP,Active form
+DL-alpha Tocopheryl Acetate,1.00,Vitamin E,USP,1 IU equals 1 mg synthetic
+D-alpha Tocopheryl Acetate,1.36,Vitamin E,USP,1 IU equals 0.735 mg natural
+Tocopheryl Acetate,1.00,Vitamin E,USP,Default synthetic
+Vitamin E Acetate,1.00,Vitamin E,USP,Alias
+DL-alpha Tocopherol,1.10,Vitamin E,USP,1 IU equals 0.909 mg synthetic
+D-alpha Tocopherol,1.49,Vitamin E,USP,1 IU equals 0.67 mg natural
+Tocopherol,1.49,Vitamin E,USP,Default natural
+Mixed Tocopherols,1.10,Vitamin E,USP,Approximate
+Vitamin E Succinate,1.21,Vitamin E,USP,Approximate
+DL-alpha Tocopheryl Succinate,1.21,Vitamin E,USP,Approximate

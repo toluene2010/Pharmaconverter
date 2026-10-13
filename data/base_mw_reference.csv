@@ -1,0 +1,20 @@
+Base_Name,Base_MW,Formula,Target_Class,Notes
+Choline,104.17,C5H14NO,Cation,Free choline base
+Pyridoxine,169.18,C8H11NO3,Base,Vitamin B6 base
+Pyridoxal,167.16,C8H9NO3,Base,B6 aldehyde
+Pyridoxamine,168.20,C8H12N2O2,Base,B6 amine
+Thiamine,265.36,C12H17N4OS,Cation,Vitamin B1 base
+Riboflavin,376.36,C17H20N4O6,Base,Vitamin B2
+Niacinamide,122.12,C6H6N2O,Base,Vitamin B3 amide
+Nicotinic Acid,123.11,C6H5NO2,Acid,Vitamin B3 acid
+Pantothenic Acid,219.23,C9H17NO5,Acid,Vitamin B5 base
+Folic Acid,441.40,C19H19N7O6,Acid,Vitamin B9
+Folate,441.40,C19H19N7O6,Acid,B9 anion
+Biotin,244.31,C10H16N2O3S,Base,Vitamin B7
+Cyanocobalamin,1355.37,C63H88CoN14O14P,Base,Vitamin B12
+Methylcobalamin,1344.38,C63H91CoN13O14P,Base,B12 methyl form
+Hydroxocobalamin,1346.36,C62H89CoN13O15P,Base,B12 hydroxy form
+Ascorbic Acid,176.12,C6H8O6,Acid,Vitamin C
+Retinol,286.45,C20H30O,Alcohol,Vitamin A alcohol
+Tocopherol,430.71,C29H50O2,Alcohol,Vitamin E alcohol
+Menadione,172.18,C11H8O2,Base,Vitamin K3

@@ -1,0 +1,128 @@
+Material_Name,Molecular_Weight,Formula,Target_Element,Category,Preferred_Form,Notes
+Magnesium Oxide,40.304,MgO,Mg,Mineral,Anhydrous,Anhydrous
+Magnesium Hydroxide,58.32,Mg(OH)2,Mg,Mineral,,
+Magnesium Citrate Anhydrous,214.41,C6H6MgO7,Mg,Mineral,Anhydrous,
+Magnesium Citrate Nonahydrate,450.63,C6H6MgO7.9H2O,Mg,Mineral,YES,Commercial default
+Magnesium Sulphate Anhydrous,120.37,MgSO4,Mg,Mineral,Anhydrous,
+Magnesium Sulphate Heptahydrate,246.47,MgSO4.7H2O,Mg,Mineral,YES,Epsom salt
+Magnesium Chloride Hexahydrate,203.30,MgCl2.6H2O,Mg,Mineral,YES,Commercial default
+Magnesium Carbonate,84.31,MgCO3,Mg,Mineral,,
+Magnesium Gluconate,414.60,C12H22MgO14,Mg,Mineral,,
+Magnesium Lactate,202.45,C6H10MgO6,Mg,Mineral,,
+Magnesium Glycinate,172.42,C4H8MgN2O4,Mg,Mineral,,
+Magnesium Taurate,272.55,C4H12MgN2O6S,Mg,Mineral,,
+Magnesium Stearate,591.27,C36H70MgO4,Mg,Mineral,,
+Zinc Sulphate Anhydrous,161.44,ZnSO4,Zn,Mineral,Anhydrous,
+Zinc Sulphate Monohydrate,179.47,ZnSO4.H2O,Zn,Mineral,,
+Zinc Sulphate Heptahydrate,287.56,ZnSO4.7H2O,Zn,Mineral,YES,Commercial default
+Zinc Oxide,81.38,ZnO,Zn,Mineral,,
+Zinc Gluconate,455.68,C12H22O14Zn,Zn,Mineral,,
+Zinc Citrate Trihydrate,574.34,C12H10O14Zn3.3H2O,Zn,Mineral,YES,Commercial default
+Zinc Picolinate,309.58,C12H8N2O4Zn,Zn,Mineral,,
+Zinc Chloride Anhydrous,136.29,ZnCl2,Zn,Mineral,Anhydrous,
+Zinc Acetate Dihydrate,219.51,C4H6O4Zn.2H2O,Zn,Mineral,YES,Commercial default
+Zinc Lactate Trihydrate,297.58,C6H10O6Zn.3H2O,Zn,Mineral,YES,Commercial default
+Zinc Bisglycinate,213.50,C4H8N2O4Zn,Zn,Mineral,,
+Ferrous Fumarate,169.90,C4H2FeO4,Fe,Mineral,,
+Ferrous Sulphate Anhydrous,151.91,FeSO4,Fe,Mineral,Anhydrous,
+Ferrous Sulphate Monohydrate,169.93,FeSO4.H2O,Fe,Mineral,,
+Ferrous Sulphate Heptahydrate,278.01,FeSO4.7H2O,Fe,Mineral,YES,Commercial default
+Ferrous Gluconate,446.14,C12H22FeO14,Fe,Mineral,,
+Ferrous Lactate Trihydrate,288.03,C6H10FeO6.3H2O,Fe,Mineral,YES,Commercial default
+Ferrous Bisglycinate,204.05,C4H8FeN2O4,Fe,Mineral,,
+Ferrous Carbonate,115.85,FeCO3,Fe,Mineral,,
+Ferrous Ascorbate,406.10,C12H14FeO12,Fe,Mineral,,
+Ferric Pyrophosphate,745.21,Fe4(P2O7)3,Fe,Mineral,,
+Ferric Citrate,244.94,C6H5FeO7,Fe,Mineral,,
+Carbonyl Iron,55.85,Fe,Fe,Mineral,Anhydrous,
+Copper Sulphate Anhydrous,159.609,CuSO4,Cu,Mineral,Anhydrous,
+Copper Sulphate Pentahydrate,249.685,CuSO4.5H2O,Cu,Mineral,YES,Blue vitriol
+Copper Gluconate,453.84,C12H22CuO14,Cu,Mineral,,
+Copper Citrate,568.84,C12H10Cu3O14,Cu,Mineral,,
+Copper Oxide,79.545,CuO,Cu,Mineral,,
+Copper Bisglycinate,211.67,C4H8CuN2O4,Cu,Mineral,,
+Manganese Sulphate Anhydrous,151.001,MnSO4,Mn,Mineral,Anhydrous,
+Manganese Sulphate Monohydrate,169.02,MnSO4.H2O,Mn,Mineral,,
+Manganese Sulphate Tetrahydrate,223.06,MnSO4.4H2O,Mn,Mineral,,
+Manganese Sulphate Heptahydrate,277.11,MnSO4.7H2O,Mn,Mineral,YES,Commercial default
+Manganese Gluconate,445.23,C12H22MnO14,Mn,Mineral,,
+Manganese Citrate,511.02,C12H10Mn3O14,Mn,Mineral,,
+Manganese Chloride Tetrahydrate,197.91,MnCl2.4H2O,Mn,Mineral,YES,Commercial default
+Manganese Bisglycinate,203.05,C4H8MnN2O4,Mn,Mineral,,
+Chromium Trichloride Anhydrous,158.36,CrCl3,Cr,Mineral,Anhydrous,
+Chromium Trichloride Hexahydrate,266.45,CrCl3.6H2O,Cr,Mineral,YES,Commercial default
+Chromium Picolinate,418.30,C18H12CrN3O6,Cr,Mineral,,
+Chromium Polynicotinate,430.38,C18H12CrN3O6.C6H5NO2,Cr,Mineral,,
+Chromium Citrate,439.19,C18H10Cr3O21,Cr,Mineral,,
+Sodium Molybdate Anhydrous,205.92,Na2MoO4,Mo,Mineral,Anhydrous,
+Sodium Molybdate Dihydrate,241.95,Na2MoO4.2H2O,Mo,Mineral,YES,Commercial default
+Sodium Molybdate Decahydrate,385.95,Na2MoO4.10H2O,Mo,Mineral,,
+Ammonium Molybdate Tetrahydrate,1235.86,(NH4)6Mo7O24.4H2O,Mo,Mineral,YES,Commercial default
+Sodium Selenate Anhydrous,188.94,Na2SeO4,Se,Mineral,Anhydrous,
+Sodium Selenate Decahydrate,369.11,Na2SeO4.10H2O,Se,Mineral,YES,Commercial default
+Sodium Selenite Anhydrous,172.94,Na2SeO3,Se,Mineral,Anhydrous,
+Sodium Selenite Pentahydrate,263.03,Na2SeO3.5H2O,Se,Mineral,YES,Commercial default
+Selenomethionine,196.11,C5H11NO2Se,Se,Mineral,,
+Selenocysteine,168.05,C3H7NO2Se,Se,Mineral,,
+Potassium Iodide,166.00,KI,I,Mineral,,
+Potassium Iodate,214.00,KIO3,I,Mineral,,
+Sodium Iodide,149.89,NaI,I,Mineral,,
+Calcium Carbonate,100.09,CaCO3,Ca,Mineral,,
+Calcium Citrate Tetrahydrate,570.50,Ca3(C6H5O7)2.4H2O,Ca,Mineral,YES,Commercial default
+Calcium Gluconate Monohydrate,448.39,C12H22CaO14.H2O,Ca,Mineral,YES,Commercial default
+Calcium Lactate Pentahydrate,308.30,C6H10CaO6.5H2O,Ca,Mineral,YES,Commercial default
+Calcium Phosphate Tribasic,310.18,Ca3(PO4)2,Ca,Mineral,,
+Calcium Phosphate Dibasic Dihydrate,172.09,CaHPO4.2H2O,Ca,Mineral,YES,Commercial default
+Calcium Chloride Dihydrate,147.01,CaCl2.2H2O,Ca,Mineral,YES,Commercial default
+Calcium Hydroxide,74.09,Ca(OH)2,Ca,Mineral,,
+Calcium Ascorbate Dihydrate,462.38,C12H14CaO12.2H2O,Ca,Mineral,YES,Commercial default
+Calcium Bisglycinate,188.19,C4H8CaN2O4,Ca,Mineral,,
+Calcium Malate,172.15,C4H4CaO5,Ca,Mineral,,
+Calcium Orotate,290.24,C10H8CaN4O8,Ca,Mineral,,
+Calcium Sulphate Dihydrate,172.17,CaSO4.2H2O,Ca,Mineral,YES,Gypsum
+Potassium Chloride,74.55,KCl,K,Mineral,,
+Potassium Citrate Monohydrate,324.41,K3C6H5O7.H2O,K,Mineral,YES,Commercial default
+Potassium Gluconate,234.25,C6H11KO7,K,Mineral,,
+Potassium Bicarbonate,100.12,KHCO3,K,Mineral,,
+Sodium Chloride,58.44,NaCl,Na,Mineral,,
+Sodium Citrate Dihydrate,294.10,C6H5Na3O7.2H2O,Na,Mineral,YES,Commercial default
+Sodium Bicarbonate,84.01,NaHCO3,Na,Mineral,,
+Boric Acid,61.83,H3BO3,B,Mineral,,
+Silicon Dioxide,60.08,SiO2,Si,Mineral,,
+Retinyl Palmitate,524.86,C36H60O2,,Vitamin,,
+Retinol,286.45,C20H30O,,Vitamin,,
+Retinyl Acetate,328.49,C22H32O2,,Vitamin,,
+Beta Carotene,536.87,C40H56,,Vitamin,,
+Thiamine Mononitrate,327.36,C12H17N5O4S,,Vitamin,YES,Vitamin B1
+Thiamine Hydrochloride,337.27,C12H17ClN4OS.HCl,,Vitamin,,Vitamin B1
+Riboflavin,376.36,C17H20N4O6,,Vitamin,,Vitamin B2
+Riboflavin 5-Phosphate Sodium,514.36,C17H20N4NaO9P,,Vitamin,,Vitamin B2
+Niacinamide,122.12,C6H6N2O,,Vitamin,,Vitamin B3
+Nicotinic Acid,123.11,C6H5NO2,,Vitamin,,Vitamin B3
+D-Pantothenate Calcium,476.53,C18H32CaN2O10,,Vitamin,YES,Vitamin B5
+Calcium D-Pantothenate,476.53,C18H32CaN2O10,,Vitamin,,Alias
+Calcium Pantothenate,476.53,C18H32CaN2O10,,Vitamin,,Alias
+Pyridoxine Hydrochloride,205.64,C8H12ClNO3,,Vitamin,YES,Vitamin B6
+Pyridoxine HCl,205.64,C8H12ClNO3,,Vitamin,,Alias
+Biotin,244.31,C10H16N2O3S,,Vitamin,,Vitamin B7
+Folic Acid,441.40,C19H19N7O6,,Vitamin,,Vitamin B9
+Methylcobalamin,1344.38,C63H91CoN13O14P,,Vitamin,,Vitamin B12
+Cyanocobalamin,1355.37,C63H88CoN14O14P,,Vitamin,YES,Vitamin B12
+Hydroxocobalamin Acetate,1381.42,C62H89CoN13O15P.C2H4O2,,Vitamin,,Vitamin B12
+Choline Bitartrate,253.25,C9H19NO7,,Vitamin,YES,Choline salt
+Choline Chloride,139.62,C5H14ClNO,,Vitamin,,Choline salt
+Choline Citrate,357.36,C11H21NO8,,Vitamin,,Choline salt
+Inositol,180.16,C6H12O6,,Vitamin,,
+Ascorbic Acid,176.12,C6H8O6,,Vitamin,,Vitamin C
+Sodium Ascorbate,198.11,C6H7NaO6,,Vitamin,,Vitamin C
+Calcium Ascorbate Dihydrate,462.38,C12H14CaO12.2H2O,,Vitamin,,Vitamin C
+Ascorbyl Palmitate,414.53,C22H38O7,,Vitamin,,Vitamin C
+Cholecalciferol,384.64,C27H44O,,Vitamin,YES,Vitamin D3
+Ergocalciferol,396.65,C28H44O,,Vitamin,,Vitamin D2
+DL-alpha Tocopheryl Acetate,472.74,C31H52O3,,Vitamin,YES,Vitamin E
+D-alpha Tocopheryl Acetate,472.74,C31H52O3,,Vitamin,,Vitamin E
+DL-alpha Tocopherol,430.71,C29H50O2,,Vitamin,,Vitamin E
+D-alpha Tocopherol,430.71,C29H50O2,,Vitamin,,Vitamin E
+Phytonadione,450.70,C31H46O2,,Vitamin,YES,Vitamin K1
+Menaquinone-4,444.65,C31H40O2,,Vitamin,,Vitamin K2 MK-4
+Menaquinone-7,649.00,C46H64O2,,Vitamin,,Vitamin K2 MK-7

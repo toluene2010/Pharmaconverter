@@ -1,0 +1,12 @@
+Material_Name,ATE_Per_Mg,Common_Name,Regulatory_Standard,Notes
+DL-alpha Tocopheryl Acetate,0.45,Vitamin E,EFSA,1 mg equals 0.45 mg alpha-TE
+D-alpha Tocopheryl Acetate,0.67,Vitamin E,EFSA,1 mg equals 0.67 mg alpha-TE
+DL-alpha Tocopherol,0.50,Vitamin E,EFSA,Synthetic free tocopherol
+D-alpha Tocopherol,1.00,Vitamin E,EFSA,Natural free tocopherol
+Tocopheryl Acetate,0.45,Vitamin E,EFSA,Default synthetic
+Tocopherol,1.00,Vitamin E,EFSA,Default natural
+Mixed Tocopherols,0.75,Vitamin E,EFSA,Approximate blend
+Vitamin E Acetate,0.45,Vitamin E,EFSA,Alias
+Vitamin E Succinate,0.57,Vitamin E,EFSA,Approximate
+DL-alpha Tocopheryl Succinate,0.57,Vitamin E,EFSA,Approximate
+Alpha-Tocopherol Equivalent,0.00,Vitamin E,EFSA,Informational row
