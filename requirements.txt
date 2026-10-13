@@ -1,0 +1,5 @@
+streamlit
+pandas
+periodictable
+reportlab
+openpyxl
