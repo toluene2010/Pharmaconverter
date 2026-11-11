@@ -42,26 +42,26 @@ Copper Citrate,568.84,C12H10Cu3O14,Cu,Mineral,,
 Copper Oxide,79.545,CuO,Cu,Mineral,,
 Copper Bisglycinate,211.67,C4H8CuN2O4,Cu,Mineral,,
 Manganese Sulphate Anhydrous,151.001,MnSO4,Mn,Mineral,Anhydrous,
-Manganese Sulphate Monohydrate,169.02,MnSO4.H2O,Mn,Mineral,,
+Manganese Sulphate Monohydrate,169.02,MnSO4.H2O,Mn,,YES,Mineral,,
 Manganese Sulphate Tetrahydrate,223.06,MnSO4.4H2O,Mn,Mineral,,
 Manganese Sulphate Heptahydrate,277.11,MnSO4.7H2O,Mn,Mineral,YES,Commercial default
 Manganese Gluconate,445.23,C12H22MnO14,Mn,Mineral,,
 Manganese Citrate,511.02,C12H10Mn3O14,Mn,Mineral,,
 Manganese Chloride Tetrahydrate,197.91,MnCl2.4H2O,Mn,Mineral,YES,Commercial default
 Manganese Bisglycinate,203.05,C4H8MnN2O4,Mn,Mineral,,
-Chromium Trichloride Anhydrous,158.36,CrCl3,Cr,Mineral,Anhydrous,
+Chromium Trichloride Anhydrous,158.36,CrCl3,Cr,Mineral,YES,Anhydrous,
 Chromium Trichloride Hexahydrate,266.45,CrCl3.6H2O,Cr,Mineral,YES,Commercial default
 Chromium Picolinate,418.30,C18H12CrN3O6,Cr,Mineral,,
 Chromium Polynicotinate,430.38,C18H12CrN3O6.C6H5NO2,Cr,Mineral,,
 Chromium Citrate,439.19,C18H10Cr3O21,Cr,Mineral,,
-Sodium Molybdate Anhydrous,205.92,Na2MoO4,Mo,Mineral,Anhydrous,
-Sodium Molybdate Dihydrate,241.95,Na2MoO4.2H2O,Mo,Mineral,YES,Commercial default
+Sodium Molybdate Anhydrous,205.92,Na2MoO4,Mo,Mineral,YES,Anhydrous,
+Sodium Molybdate Dihydrate,241.95,Na2MoO4.2H2O,Mo,Mineral,,Commercial default
 Sodium Molybdate Decahydrate,385.95,Na2MoO4.10H2O,Mo,Mineral,,
 Ammonium Molybdate Tetrahydrate,1235.86,(NH4)6Mo7O24.4H2O,Mo,Mineral,YES,Commercial default
-Sodium Selenate Anhydrous,188.94,Na2SeO4,Se,Mineral,Anhydrous,
+Sodium Selenate Anhydrous,188.94,Na2SeO4,Se,Mineral,YES,Anhydrous,
 Sodium Selenate Decahydrate,369.11,Na2SeO4.10H2O,Se,Mineral,YES,Commercial default
-Sodium Selenite Anhydrous,172.94,Na2SeO3,Se,Mineral,Anhydrous,
-Sodium Selenite Pentahydrate,263.03,Na2SeO3.5H2O,Se,Mineral,YES,Commercial default
+Sodium Selenite Anhydrous,172.94,Na2SeO3,Se,Mineral,YES,Anhydrous,
+Sodium Selenite Pentahydrate,263.03,Na2SeO3.5H2O,Se,Mineral,,Commercial default
 Selenomethionine,196.11,C5H11NO2Se,Se,Mineral,,
 Selenocysteine,168.05,C3H7NO2Se,Se,Mineral,,
 Potassium Iodide,166.00,KI,I,Mineral,,
